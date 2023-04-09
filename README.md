@@ -1,2 +1,2 @@
-# Google-Authection
- Google Authection
+# YT-Django-Allauth-Google
+ 
